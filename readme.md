@@ -4,6 +4,9 @@
 
 ![image](https://github.com/user-attachments/assets/550de2ee-9d79-4abc-9576-e954e28b4178)
 
+![image](https://github.com/user-attachments/assets/7f76f70c-be20-48d1-9492-d3fee2f2fbe6)
+
+
 
 
 Bu proje, modern web teknolojileri kullanılarak geliştirilmiş kapsamlı bir e-ticaret platformudur. Microservices mimarisi, Docker containerization ve çeşitli modern teknolojiler kullanılarak oluşturulmuştur.
