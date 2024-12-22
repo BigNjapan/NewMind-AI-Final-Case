@@ -160,6 +160,4 @@ Bu proje, modern web teknolojileri kullanılarak geliştirilmiş kapsamlı bir e
 
 ## 📞 İletişim
 
-Proje Sahibi - [@github_username](https://github.com/github_username)
-
-Proje Linki: [https://github.com/username/e-commerce-project](https://github.com/username/e-commerce-project)
+Proje Sahibi - [@BigNjapan](https://github.com/BigNjapan) Kadircan Devrim
