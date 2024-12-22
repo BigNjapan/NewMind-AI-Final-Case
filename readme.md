@@ -1,5 +1,8 @@
 # E-Ticaret Projesi
 
+![image (1)](https://github.com/user-attachments/assets/0cd8758d-d03e-40a6-923a-6b204618bb0e)
+
+
 Bu proje, modern web teknolojileri kullanılarak geliştirilmiş kapsamlı bir e-ticaret platformudur. Microservices mimarisi, Docker containerization ve çeşitli modern teknolojiler kullanılarak oluşturulmuştur.
 
 ## 🚀 Özellikler
