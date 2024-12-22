@@ -1,0 +1,30 @@
+e-commerce/
+├── backend/
+│   ├── monolith/
+│   │   ├── src/
+│   │   │   ├── controllers/
+│   │   │   ├── models/
+│   │   │   ├── routes/
+│   │   │   ├── middleware/
+│   │   │   ├── config/
+│   │   │   └── utils/
+│   │   ├── Dockerfile
+│   │   └── package.json
+│   ├── payment-service/
+│   │   ├── src/
+│   │   ├── Dockerfile
+│   │   └── package.json
+│   └── billing-service/
+│       ├── src/
+│       ├── Dockerfile
+│       └── package.json
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── services/
+│   │   ├── hooks/
+│   │   └── utils/
+│   ├── Dockerfile
+│   └── package.json
+└── docker-compose.yml 
