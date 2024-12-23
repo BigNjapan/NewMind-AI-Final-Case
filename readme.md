@@ -31,7 +31,7 @@ Bu proje, modern web teknolojileri kullanılarak geliştirilmiş kapsamlı bir e
 - Kafka mesaj kuyruğu
 - Responsive tasarım
 
-## 🛠 Teknoloji Yığını
+## 🛠 Teknoloji Stack
 
 ### Backend
 
@@ -176,6 +176,5 @@ Bu proje, modern web teknolojileri kullanılarak geliştirilmiş kapsamlı bir e
 - Kafka broker durumu
 - Servis sağlık kontrolleri
 
-## 📞 İletişim
 
 Proje Sahibi - [@BigNjapan](https://github.com/BigNjapan) Kadircan Devrim
